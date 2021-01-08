@@ -5,7 +5,7 @@
   * To find out business problems associated with it.
   * To identify key areas for improving profits.
   
-![](Screenshot_(16)/Screenshots/Pictures)
+![](Pictures/Screenshots/Screenshot_(16).png)
 
 ## Insights from Exploratory Data Analysis
 * The Sales of product increases when Discount is given, but Profit goes down.
