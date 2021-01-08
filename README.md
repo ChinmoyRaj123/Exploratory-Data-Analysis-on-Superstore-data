@@ -1,1 +1,1 @@
-# Image-Recognition
+# Exploratory Data Analysis of 'Superstore'
