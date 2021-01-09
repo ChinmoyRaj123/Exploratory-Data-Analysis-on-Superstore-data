@@ -16,3 +16,6 @@
 * Sales of ‘Fasteners’, ‘Labels’ and ‘Art’ is very low. Hence, we need to focus in increasing its sales.
 * Central region is the only region with negative profit in ‘Furniture’ and ‘Office Supplies’ category. This is due to high discount given by the Texas and Illinois state having very low sales rate.
 * Hence, to get good profit in any business we have to focus on increasing sales but not giving more discount. And also we have to increase sales in highest profit making areas.
+
+
+You can also watch a visual representation of this project made with Tableau here : https://youtu.be/HsVUh6B21Nk
